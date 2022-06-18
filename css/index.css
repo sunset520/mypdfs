@@ -1,8 +1,7 @@
 a.pdf-link {
-    text-decoration: none;
-    font-family: Times New Roman;
-    color: black;
-    font-size: 18px;
+    font-family: tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
 }
 
 a.my-nav-link {
